@@ -1,0 +1,1 @@
+cmd_/home/sachin/Device_Driver/Device_Driver/ldd/custom_drivers/hwld/Module.symvers := sed 's/ko$$/o/' /home/sachin/Device_Driver/Device_Driver/ldd/custom_drivers/hwld/modules.order | scripts/mod/modpost -m    -o /home/sachin/Device_Driver/Device_Driver/ldd/custom_drivers/hwld/Module.symvers -e -i Module.symvers   -T -

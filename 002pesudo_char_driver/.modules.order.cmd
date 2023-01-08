@@ -1,0 +1,1 @@
+cmd_/home/sachin/Device_Driver/Device_Driver/ldd/custom_drivers/002pesudo_char_driver/modules.order := {   echo /home/sachin/Device_Driver/Device_Driver/ldd/custom_drivers/002pesudo_char_driver/main.ko; :; } | awk '!x[$$0]++' - > /home/sachin/Device_Driver/Device_Driver/ldd/custom_drivers/002pesudo_char_driver/modules.order
